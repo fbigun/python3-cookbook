@@ -11,6 +11,3 @@
 * GitHub：  https://github.com/yidao620c
 
 --------------------------------------------
-
-.. image:: https://xnstatic-1253397658.file.myqcloud.com/weixin1.png
-
